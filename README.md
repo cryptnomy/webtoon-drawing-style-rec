@@ -6,11 +6,7 @@
 2022-12-22 - 2023-01-06
 
 ## 팀
-|[@cryptnomy](https://github.com/cryptnomy/)
-|[@hi-Heidi](https://github.com/hi-Heidi)
-|[@imngooh](https://github.com/imngooh)
-|[@SERi9124](https://github.com/SERi9124)
-|[@Son-Jinseon](https://github.com/Son-jinseon)|
+|[@cryptnomy](https://github.com/cryptnomy/)|[@hi-Heidi](https://github.com/hi-Heidi)|[@imngooh](https://github.com/imngooh)|[@SERi9124](https://github.com/SERi9124)|[@Son-Jinseon](https://github.com/Son-jinseon)|
 |--|--|--|--|--|
 |||||
 
